@@ -57,3 +57,6 @@ curl http://localhost:3000/<shortened_url>
 - **Redis:** Used for storing the URL mappings.
 - **Docker:** Containerization of the application.
 
+# Contributing
+
+Feel free to open issues or submit pull requests if you have suggestions or improvements.
